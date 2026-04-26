@@ -65,7 +65,7 @@ pip install pyglet
 ```
 face_invaders/
 │
-├── main.py
+├── face_invaders_v4.py
 ├── sprites/
 │   └── cutout/
 │       ├── img_mouth_closed.png
@@ -106,7 +106,7 @@ face_invaders/
 ## 🚀 Running the Game
 
 ```bash
-python main.py
+python face_invaders_v4.py
 ```
 
 Make sure:
