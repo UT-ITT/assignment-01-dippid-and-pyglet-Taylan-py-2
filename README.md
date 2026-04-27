@@ -1,4 +1,9 @@
-This is just the Readme for the game, the dippid sender is more or less self-explanatory.
+# Dippid Sender
+
+I emulated all sensors, which were in the phone aswell. I additionally simulated noise, since the values seemed quite noisy on the phone. 
+I recommend trying my DIPPID_sender.py script with the demo_vis.py script!
+
+First run demo_vis.py and then DIPPID_sender.py!
 
 # 👾 Face Invaders
 

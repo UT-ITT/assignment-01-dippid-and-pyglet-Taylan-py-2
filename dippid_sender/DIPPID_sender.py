@@ -42,6 +42,7 @@ def main():
 
             # Construct Payload
             payload = {
+                "heartbeat": time.time(),
                 "accelerometer": {
                     "x": round(float(accel_x), 3),
                     "y": round(float(accel_y), 3),
